@@ -1,4 +1,6 @@
-tutorial
+Hello World
 ========
 
-tutorial
+My first repository on Github!
+
+I love :hockey:, :pho:, and :snow:.
